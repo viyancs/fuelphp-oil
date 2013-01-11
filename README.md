@@ -14,16 +14,18 @@ look this article for more details
 Usage
 -------
 make sure you have already resource 
-1) twig lib
-2) bootstrap
-3) jquery ui
+<ol>
+<li>twig lib</li>
+<li> bootstrap</li>
+<li> jquery ui </li>
 
 
 Feature Adding
 --------------
-1) pagination on page index
-2) csrf token check when edit and input new data
-3) view base on twig template engine
-4) controller change to default controller not using controler template
-5) integrate wit jquery.ui for frontend and bootstrap
+<ol>
+<li>pagination on page index</li>
+<li>csrf token check when edit and input new data</li>
+<li>view base on twig template engine</li>
+<li>controller change to default controller not using controler template</li>
+<li>integrate wit jquery.ui for frontend and bootstrap</li>
 
