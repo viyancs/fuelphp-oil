@@ -15,9 +15,9 @@ Usage
 -------
 make sure you have already resource 
 <ol>
-<li>twig lib</li>
-<li> bootstrap</li>
-<li> jquery ui </li>
+<li><a href="twig lib">http://twig.sensiolabs.org/doc/intro.html#installation</a></li>
+<li> <a href="http://twitter.github.com/bootstrap/index.html">bootstrap</a> </li>
+<li> < ahref="http://jqueryui.com/">jquery ui </a></li>
 </ol>
 
 
