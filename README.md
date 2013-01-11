@@ -18,6 +18,7 @@ make sure you have already resource
 <li>twig lib</li>
 <li> bootstrap</li>
 <li> jquery ui </li>
+</ol>
 
 
 Feature Adding
@@ -28,4 +29,5 @@ Feature Adding
 <li>view base on twig template engine</li>
 <li>controller change to default controller not using controler template</li>
 <li>integrate wit jquery.ui for frontend and bootstrap</li>
+</ol>
 
