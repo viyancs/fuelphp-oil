@@ -1,7 +1,7 @@
-fuelphp-oil
+fuelphp-oil (v1.6.1)
 ===========
 
-custom fuephp oil wnen generate (views,controller,model)
+custom fuephp oil when generate (views,controller,model)
 
 look this article for more details
 
